@@ -6,6 +6,7 @@
  * Author: Litec
  * Author URI: https://litec.site/
  * Text Domain: Litec Software Company
+ * Update URI: false
  * Domain Path: /languages
  * Requires Plugins: woocommerce
  * WC requires at least: 4.0
